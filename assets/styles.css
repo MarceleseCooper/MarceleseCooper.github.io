@@ -66,7 +66,7 @@ body {
 .hero-section {
     flex: 1.5;
     /* Takes 1.5x space (more than links) */
-    background: #000000;
+    background: #ff5c04;
     /* Change background color */
     padding: 60px 50px;
     /* Change padding: top/bottom left/right */
